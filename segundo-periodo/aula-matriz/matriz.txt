@@ -1,0 +1,18 @@
+Algoritmo "trab 6"
+
+
+Var
+
+ numeros: vetor [1..6, 1..6] de inteiro
+ index, index2: inteiro
+
+Inicio
+
+PARA index de 1 ate 5 faca
+para index2 de 1 ate 5 faca
+numeros[2,6] <- 16
+escreval(" teste", numeros[2,6])
+fimpara
+fimpara
+
+Fimalgoritmo
