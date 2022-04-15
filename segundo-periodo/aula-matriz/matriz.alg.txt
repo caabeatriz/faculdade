@@ -8,6 +8,7 @@ Var
 
 Inicio
 
+//for
 PARA index de 1 ate 5 faca
 para index2 de 1 ate 5 faca
 numeros[2,6] <- 16
